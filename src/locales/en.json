@@ -1,0 +1,63 @@
+{
+  "login": {
+    "welcome": "Welcome {{name}} to our localized app!",
+    "login_button": "Login",
+    "signup_button": "Sign Up"
+  },
+  "signup": {
+    "title": "Your Profile"
+  },
+  "home": {
+    "home": "Home",
+    "search": "Search",
+    "all": "All",
+    "notFound": "No data was found."
+  },
+  "favorite": {
+    "favorites": "Favorites",
+    "notFound": "No data was found.",
+    "myProjects": "My Projects"
+  },
+  "settings": {
+    "settings": "Settings",
+    "avatar": "Avatar",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "project": {
+
+  },
+  "chat": {
+    "messages": "Messages",
+    "chat": "Chat",
+    "public": "Public Chat",
+    "publicDescription": "Chat for everybody",
+    "created_by": "Created By"
+  },
+  "messages": {
+    "noInternet": "No internet connection.",
+    "unknownError": "Unknown error has occurred.",
+    "image": "image",
+    "ok": "Ok"
+  },
+  "add_project": {
+    "addDone": "You have added a project successfully",
+    "editDone": "You have edited a project successfully",
+    "requiredField": "The {{name}} field is required",
+    "image": "Image",
+    "title": "Add Project",
+    "title_text": "Title",
+    "description": "Description",
+    "select": "select",
+    "capitalNeeded": "Capital Needed",
+    "industry": "Industry",
+    "presentation": "Presentation",
+    "report": "Report",
+    "save": "Save",
+    "public": "Public",
+    "private": "Private"
+  },
+  "profile": {
+
+  }
+}
